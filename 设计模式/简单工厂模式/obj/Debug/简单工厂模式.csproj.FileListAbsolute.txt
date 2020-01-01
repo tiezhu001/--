@@ -4,3 +4,6 @@ D:\c#\C#\设计模式\简单工厂模式\bin\Debug\简单工厂模式.exe
 D:\c#\C#\设计模式\简单工厂模式\bin\Debug\简单工厂模式.pdb
 D:\c#\C#\设计模式\简单工厂模式\obj\Debug\简单工厂模式.exe
 D:\c#\C#\设计模式\简单工厂模式\obj\Debug\简单工厂模式.pdb
+D:\c#\设计模式\设计模式\简单工厂模式\bin\Debug\简单工厂模式.exe.config
+D:\c#\设计模式\设计模式\简单工厂模式\obj\Debug\简单工厂模式.exe
+D:\c#\设计模式\设计模式\简单工厂模式\obj\Debug\简单工厂模式.pdb
